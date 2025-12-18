@@ -1,0 +1,21 @@
+{
+  "pemasukan": [
+    "Gaji",
+    "Bisnis",
+    "Freelance",
+    "Investasi",
+    "Hadiah",
+    "Lainnya"
+  ],
+  "pengeluaran": [
+    "Makanan",
+    "Transportasi",
+    "Belanja",
+    "Hiburan",
+    "Tagihan",
+    "Kesehatan",
+    "Pendidikan",
+    "Lainnya"
+  ],
+  "custom": []
+}
